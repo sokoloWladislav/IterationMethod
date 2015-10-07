@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{A789416B-38B9-4C36-901D-B6032EBD0E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogic", "UnitTesting\TestLogic.csproj", "{3360B8C3-A28F-4F54-82DA-8C50AA4B8238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{55F15707-F1C9-48C0-BBEE-1AA809C4E461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A789416B-38B9-4C36-901D-B6032EBD0E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A789416B-38B9-4C36-901D-B6032EBD0E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A789416B-38B9-4C36-901D-B6032EBD0E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A789416B-38B9-4C36-901D-B6032EBD0E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3360B8C3-A28F-4F54-82DA-8C50AA4B8238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3360B8C3-A28F-4F54-82DA-8C50AA4B8238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3360B8C3-A28F-4F54-82DA-8C50AA4B8238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3360B8C3-A28F-4F54-82DA-8C50AA4B8238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F15707-F1C9-48C0-BBEE-1AA809C4E461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F15707-F1C9-48C0-BBEE-1AA809C4E461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F15707-F1C9-48C0-BBEE-1AA809C4E461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F15707-F1C9-48C0-BBEE-1AA809C4E461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
